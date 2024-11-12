@@ -1,6 +1,6 @@
 ---
 fullname: Thomas Guillet
-role: Co-animateur transverse et indépendant
+role: Faiseur transverse et indépendant
 domaine: Animation
 github: guillett
 link: https://palya.fr/
@@ -23,6 +23,10 @@ missions:
     end: 2024-09-01
     status: independent
     employer: Codeurs en Liberté
+  - start: 2024-11-12
+    end: 2024-12-31
+    status: independent
+    employer: Codeurs en Liberté
 previously:
   - aides.jeunes
   - je-deviens-etudiant
@@ -32,7 +36,5 @@ previously:
   - voir-et-localiser
   - rdv.insertion
   - rdv-service-public
-badges:
-  - segur
 ---
 Tout faire pour les humain·e·s
